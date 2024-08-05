@@ -1,0 +1,15 @@
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/bin/Debug/net8.0/TallerSemana_Biblioteca
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/bin/Debug/net8.0/TallerSemana_Biblioteca.deps.json
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/bin/Debug/net8.0/TallerSemana_Biblioteca.runtimeconfig.json
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/bin/Debug/net8.0/TallerSemana_Biblioteca.dll
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/bin/Debug/net8.0/TallerSemana_Biblioteca.pdb
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.AssemblyInfoInputs.cache
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.AssemblyInfo.cs
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.csproj.CoreCompileInputs.cache
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.sourcelink.json
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.dll
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/refint/TallerSemana_Biblioteca.dll
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.pdb
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/TallerSemana_Biblioteca.genruntimeconfig.cache
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/TallerSemana_Biblioteca/obj/Debug/net8.0/ref/TallerSemana_Biblioteca.dll
