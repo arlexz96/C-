@@ -1,0 +1,14 @@
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/bin/Debug/net8.0/taller_03
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/bin/Debug/net8.0/taller_03.deps.json
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/bin/Debug/net8.0/taller_03.runtimeconfig.json
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/bin/Debug/net8.0/taller_03.dll
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/bin/Debug/net8.0/taller_03.pdb
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/taller_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/taller_03.AssemblyInfoInputs.cache
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/taller_03.AssemblyInfo.cs
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/taller_03.csproj.CoreCompileInputs.cache
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/taller_03.dll
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/refint/taller_03.dll
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/taller_03.pdb
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/taller_03.genruntimeconfig.cache
+/Users/arlex/RIWI/AM/Projects_Riwi/C#/Practicas/taller_03/obj/Debug/net8.0/ref/taller_03.dll
